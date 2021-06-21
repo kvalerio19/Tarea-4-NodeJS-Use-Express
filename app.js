@@ -8,7 +8,7 @@ app.get('/', (req, res) =>{
 });
 
 app.get('/contact', (req, res) =>{
-    res.send('Contáctanos');
+    res.send('Contáctanos');//
 
 });
 
